@@ -1,1 +1,2 @@
 Hi There I am Rizwan this is my first file in git from git_basic repository.
+//This is the text line for test the PULL command in git via from File_1.txt in git_basic repository
